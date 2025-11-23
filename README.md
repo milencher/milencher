@@ -5,7 +5,7 @@
 I'm a beginner QA tester. My main focus is testing web applications (frontend and backend). I don't have commercial experience yet, but I'm motivated to develop in this field, apply the knowledge gained in practice, and participate in real projects. During the courses, I mastered the basics of creating test cases, working with tools, and identifying bugs.
 
 - 📫 How to contact me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-username]/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/milencher)
-- 📚 My courses:[![courses](https://github.com/milencher/milencher/blob/main/assets/certificate.jpg)]
+- 📚 My courses:[courses](https://github.com/milencher/milencher/blob/main/assets/certificate.jpg)
 
 ### 📁 Test documentation:
 
